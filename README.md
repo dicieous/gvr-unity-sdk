@@ -34,7 +34,7 @@ directly in a Unity project.
 
 ## Getting Started
 
-The Google VR SDK for Unity requires
+The GOOGLE VR SDK for Unity requires
 [Unity 2017.4 or newer](//unity3d.com/get-unity/download).
 
 If you are new to the Google VR SDK for Unity, see the following guides:
