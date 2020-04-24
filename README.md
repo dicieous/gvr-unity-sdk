@@ -17,7 +17,7 @@ app.
 
 # Google VR SDK for Unity
 
-Use Unity to build virtual reality apps for Android and iOS.
+Use Unity to build virtual reality apps for ANDROID and iOS.
 
 Copyright (c) 2016 Google Inc. All rights reserved.
 
